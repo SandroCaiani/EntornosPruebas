@@ -10,13 +10,13 @@ Cursiva: *Texto en itálico*
 
 Cita: > blockquote
 
-Lista ordenada: 1. Lista Ordenada
-                2. Sandro
-                3. Caiani
+Lista ordenada: 1. Sandro 
+                2. Caiani
+                3. Tarazona
 
-Lista no ordenada: * Lista desordenada
+Lista no ordenada: * Caiani
+                   * Tarazona
                    * Sandro
-                   * Caiani
 
 Código: '1001010011010100110101001011010100100101001001010'
 
